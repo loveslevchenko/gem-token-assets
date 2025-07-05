@@ -1,0 +1,21 @@
+{
+  "name": "GEM Token List",
+  "logoURI": "https://raw.githubusercontent.com/loveslevchenko/gem-token-assets/main/logo.png",
+  "keywords": ["gem", "utility", "token"],
+  "timestamp": "2025-07-05T12:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xCAC6dA2753F1CD483b542FA93663bF5A3eC434eD",
+      "symbol": "GEM",
+      "name": "Gem Token",
+      "decimals": 13,
+      "logoURI": "https://raw.githubusercontent.com/loveslevchenko/gem-token-assets/main/logo.png"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
